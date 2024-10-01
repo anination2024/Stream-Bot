@@ -22,39 +22,39 @@
           "description": "Set this to True if you don't want to crash the bot",
           "value": "True"
       },
-      "APP_NAME": {
+      "APP_NAME": { "Stream-bot"
           "description": "Copy-Paste the app name that you just typed above."
       },
-      "API_ID": {
+      "API_ID": { "28509727"
           "description": "Get this value from https://my.telegram.org"
       },
-      "API_HASH": {
+      "API_HASH": { "07d6e9be440c5176552d905c1206602d"
           "description": "Get this value from https://my.telegram.org"
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": { "7794144471:AAGR_Emp357Th4UYIeuD2wa9oYeeP29tht8"
           "description": "Get this value from @BotFather"
       },
-      "BIN_CHANNEL": {
+      "BIN_CHANNEL": { "-1001942644606"
           "description": "The BIN Channel ID. Read the readme for more info about this var"
           
       },
       "DATABASE_URL": {
           "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
       },
-      "OWNER_ID": {
+      "OWNER_ID": { "6185603363"
           "description": "Your Telegram User ID  like 1234509"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
           "required": false
       },
-      "UPDATES_CHANNEL": {
+      "UPDATES_CHANNEL": { "ANI_NATION_TM"
           "description": "Put a Public Channel Username  without @, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.IF DONT WANT KEEP VALUE AS None",
           "value":"None",
           "required": false
           
       },
-      "OWNER_USERNAME": {
+      "OWNER_USERNAME": { "KafskaHibino"
           "description": "Enter your username without @  example  adarsh."
       },
       "SLEEP_THRESHOLD": {
